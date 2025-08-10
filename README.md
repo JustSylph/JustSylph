@@ -15,7 +15,7 @@ I also am a very big TTRPG nerd and I collect playing cards and dice!
 - 🇵🇱 Polski
 - 🇳🇱 Nederlands (Learning)
 
-### 🌱 Projects I'm currently working on
+### 🌱 Projects I'm currently working on(I swear I'll finish one of them some day...)
 
-- `90%` Appendinx N Jam entry: link to be added later
+- `0%` A minimalistic file explorer writen in C: [syfiles](https://github.com/JustSylph/syfiles)
 - `20%` A quarterly OSR zine: link to be added later

@@ -20,4 +20,3 @@ currently everything put on hold while I try to pass my finals
 
 - `0%` Shadowdark Character Generator: [SyDark](https://github.com/JustSylph/SyDark)
 - `0%` A minimalistic file explorer writen in C: [syfiles](https://github.com/JustSylph/syfiles)
-- `20%` A quarterly OSR zine: link to be added later

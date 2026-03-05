@@ -5,7 +5,7 @@ I also am a very big TTRPG nerd and I collect playing cards and dice!
 
 ### 🕊️ You can reach me at
 
-- Bluesky [@sylph.nekoweb.org](https://bsky.app/profile/sylph.nekoweb.org)
+- Bluesky [@ganzir.chat](https://bsky.app/profile/ganzir.chat)
 - Discord `just.sylph`
 - Email sylph@tuta.com
 

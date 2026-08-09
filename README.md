@@ -16,6 +16,5 @@ I also am a very big TTRPG nerd and I collect playing cards and dice!
 - 🇳🇱 Nederlands (Learning)
 
 ### 🌱 Projects I'm currently working on(I swear I'll finish one of them some day...)
-currently everything put on hold while I try to pass my finals
 
 - `0%` Character Creator in C: [ccc](https://github.com/JustSylph/ccc)

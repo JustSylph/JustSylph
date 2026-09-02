@@ -17,4 +17,5 @@ I also am a very big TTRPG nerd and I collect playing cards and dice!
 
 ### 🌱 Projects I'm currently working on(I swear I'll finish one of them some day...)
 
+- '30%' Asset Pack for Allumeria: [cBd](https://github.com/JustSylph/cBd)
 - `0%` Character Creator in C: [ccc](https://github.com/JustSylph/ccc)
